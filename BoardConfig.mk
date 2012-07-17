@@ -38,7 +38,7 @@ LOCAL_KERNEL := device/htc/pico/kernel
 
 # Info abt chipset(msm7x27a)
 TARGET_BOARD_PLATFORM := msm7k
-TARGET_ARCH_VARIANT := armv7-a-neon
+TARGET_ARCH_VARIANT := armv7-a
 TARGET_CPU_ABI := armeabi-v7l
 TARGET_CPU_ABI2 := armeabi
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno200
